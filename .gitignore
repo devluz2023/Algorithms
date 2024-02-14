@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VSCode files
+.vscode/
+
+# Sublime Text files
+.sublime-project
+.sublime-workspace
+
+# Emacs
+*.elc
+
+# macOS
+.DS_Store
+venv/
+venv/*
+venv*
